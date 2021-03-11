@@ -1,2 +1,2 @@
 # hello-world
-ahhh
+print('hhaa')
